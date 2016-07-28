@@ -1,0 +1,28 @@
+download
+    https://www.apachefriends.org/zh_tw/index.html
+
+
+install
+    請安裝到 d:/xampp
+    程式請放到 d:/www
+
+
+附加 apache config 設定
+
+    D:/xampp/apache/conf/httpd.conf
+
+    在檔案最後面加上
+
+    ##
+    ## custom setting
+    ##
+    Include "/www/top/config/apache.conf"
+
+
+如果一開始安裝 xampp 有設定其它的 virtual host, 可以自行移除
+    D:/xampp/apache/conf/extra/httpd-xampp.conf
+
+
+
+
+

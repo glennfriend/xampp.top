@@ -1,0 +1,16 @@
+Apache 無法啟動
+
+    請檢查有沒有程式占用 80, 443 port
+    例如 skype 預設會占用 (2016.07)
+
+
+如何查詢 Port 被哪個程式佔用了
+
+    查看 80 port 被那一個 PID 占用 (最後一個欄位是PID)
+        netstat -nao | find "0.0.0.0:80"
+
+    查看 pid 是那個執每程式
+        tasklist /fi "pid eq 1234"
+
+    刪除 task
+        taskkill /pid 1234 /F
