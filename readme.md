@@ -3,13 +3,10 @@
 ### Clone to d:/www/top
 ```
 mkdir -p d:/www/top
-d:
-cd /www/top
-# clone to here
-```
 
-### Result
-```
+# clone to here
+# clone https://github.com/__________/__________.git d:/www/top/
+
 ls -l d:/www/top
 
 drwxr-xr-x    1 user    Administ        0 Jul 28 11:52 config
