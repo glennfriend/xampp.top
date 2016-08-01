@@ -1,6 +1,6 @@
-### xampp top folder
+## xampp top folder
 
-## First create folder
+### First create folder
 ```
 mkdir d:/www
 mkdir d:/www/top
@@ -9,7 +9,7 @@ cd /www/top
 # clone to here
 ```
 
-## Result
+### Result
 ```
 ls -l d:/www/top
 
