@@ -1,0 +1,7 @@
+node_modules
+npm-debug.log
+database.backup/*.sql
+database.backup/*.rar
+database.backup/*.zip
+database.backup/*.tar
+database.backup/*.gz
