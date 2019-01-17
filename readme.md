@@ -18,11 +18,11 @@ drwxr-xr-x    1 user    Administ        0 Jul 28 11:52 private.site
 -rw-r--r--    1 user    Administ        0 Jul 28 11:57 readme.md
 ```
 
-### Folder Structure (°t¦Xªº¥Ø¿ıµ²ºc)
+### Folder Structure (é…åˆçš„ç›®éŒ„çµæ§‹)
 ```
-d:/xampp        - ¥D­nµ{¦¡ & mysql data
-d:/www/top      - ¸Ó±M®×©ñ¸m°Ï
-d:/www/htdocs   - ¤J¤f
+d:/xampp        - ä¸»è¦ç¨‹å¼ & mysql data & xampp æˆ– wamp
+d:/www/top      - è©²å°ˆæ¡ˆæ”¾ç½®å€
+d:/www/htdocs   - å…¥å£
 d:/www/project1
 d:/www/project2
 d:/www/project3
